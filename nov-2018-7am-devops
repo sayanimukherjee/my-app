@@ -25,7 +25,9 @@ node {
 			  cc: '', 
 			  from: '', replyTo: '', 
 			  subject: 'myweb app deployed to Dev', 
-			  to: 'hari.kammana@gmail.com'
+			  to: 'hari.kammana@gmail1.com'
 	  }
 	}
 }
+
+
