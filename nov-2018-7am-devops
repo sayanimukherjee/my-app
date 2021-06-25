@@ -1,4 +1,4 @@
-node{
+node {  
     def mvnHome = tool name: 'maven-3', type: 'maven'
     def mvn = "${mvnHome}/bin/mvn"
 	def tomcatUsr = 'ec2-user'
